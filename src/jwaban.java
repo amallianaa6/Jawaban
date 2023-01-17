@@ -33,10 +33,10 @@ public class jwaban {
         Password = password;
     }
     public jwaban(String Nama, String User, String NoTelp, String Password){
-        this.Nama= nama;
-        this.UserID= usid;
-        this.NoTelp = notelp;
-        this.Password = pw;
+        this.Nama= Nama;
+        this.UserID= UserID;
+        this.NoTelp = NoTelp;
+        this.Password = Password;
         System.out.println("Nama");
         System.out.println("UserID");
         System.out.println("NoTelp");
